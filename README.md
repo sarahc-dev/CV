@@ -60,16 +60,48 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 - Worked in teams to create applications against tight deadlines, requiring teamwork and communication. Used pair-programming to problem solve efficiently, diagramming tools such as Excalidraw, and collaborative tools such as Trello, Miro, Easy Retro and GitHub. Followed agile methodologies such as stand-ups, sprints, sprint planning and retros to deliver iterations of the project.
 - Learnt about Git workflow - using branches, pull requests and merging to work collaboratively, and minimise code conflicts.
 - Completed the Makers emotional intelligence program - including training in empathy, feedback and communication.
+
+#### CashMoney Uk - Birmingham, Uk (December 2022 - current)
+_Full-stack developer_
+
+- I have been involved in redesigning
+- I am using Next.js
+
+####  
   
-**Company Name** (start-date to end-date)  
-_Your job title_
+#### Momenta/Big 4 Consultancy Firm - Crawley, Uk (May 2019 - November 2019)
+_QC/Process Analyst_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Provided quality checking on the recovery of funds owed to debtors in insolvency and bankruptcy on behalf of a Government agency.
+- Seconded as a process analyst and responsible for designing process maps and drafting procedure documentation.
+- Analysed existing systems and processes to identify how this could be scaled up. Identified common patterns amongst third party businesses developed procedures to merge manual processes and automation in order to meet business objectives.
+- Analysed data on defects and produced RCA reporting.
+- Conducted User Acceptance Testing (UAT) on a new case management system.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+#### Momenta/Big 4 Consultancy Firm - London, Uk (August 2018 - March 2019)
+_Analyst_
 
-- Any experience relevent to software development
+- Worked on a high risk "putting things right" project for a major high street bank from the early stages of implementation through to completion.
+- Designed and developed operational procedures, created process flows and drafted procedural documentation based on high level guidance and principles documentation, to be signed off by the Client.
+- Communicated and collaborated with internal and external stakeholders to continually update processes and promote efficiency.
+- Focussed on driving quality performance to ensure outcome testing targets were met with the operation achieving over 97% quality.
+- Analysed data on operational appeals outcomes and creating reporting slides presented to senior management.
+- Led workshops and consistency sessions.
+
+#### Momenta/Big 4 Consultancy Firm - London, Uk (January 2018 - August 2019)
+_Redress Technical Analyst (Support Governance)_
+
+- Promoted to Analyst in the redress technical support team.
+- Assessed case specific escalations and provided comprehensive solutions to the most complex redress case queries.
+- Led and supported a team of 7 SMEs working across shift patterns to ensure operational handlers were able to consistently meet productivity and quality targets.
+- Analysed data and trends and worked with key stakeholders to identify gaps and improve existing procedures.
+- Completed impact assessments and provided reporting on quality assurance outcomes to senior management.
+  
+#### Momenta/Big 4 Consultancy Firm - London, Uk (January 2016 - January 2018)
+_Quality Assurance_
+
+- Provided quality assurance on redress calculations in relation to complaints to a retail bank, ensuring the customer received fair remediation in line with the Bankʼs in-house policies and procedures, FCA guidelines, and in compliance with external audit review.
+- Had 100% quality pass rate and within 4 months was selected to become ʻcheck the checkerʼ (CTC). Supported the technical team.
 
 ## 🎓 Education
 
