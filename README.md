@@ -1,8 +1,26 @@
-## Your Name
+<div align="center">
+  <h1>Sarah Clements - Full Stack Software Engineer</h1>
+  <a href="https://www.linkedin.com/in/sarah-clements-37579589/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Linkedin Badge" /></a>
+  <a href="mailto:sarah.clements456@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge" /></a>
+  <a href="https://github.com/sarahc-dev"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge" alt="Linkedin Badge" /></a>
+  <br>
+  <br>
+  <div>
+    <a href="#about-me">About Me</a> | 
+    <a href="https://github.com/sarahc-dev/CV/master/README.md#projects">Projects</a> |
+    <a href="https://github.com/sarahc-dev/CV/master/README.md#skills">Skills</a> |
+    <a href="https://github.com/sarahc-dev/CV/master/README.md#work-experience">Work Experience</a> |
+    <a href="https://github.com/sarahc-dev/CV/master/README.md#education">Education</a> |
+    <a href="https://github.com/sarahc-dev/CV/master/README.md#hobbies">Hobbies</a>
+  </div>
+  
+</div>
+
+## About me
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-## Projects
+<h2 id="projects">Projects</h2>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
