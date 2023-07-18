@@ -11,40 +11,28 @@
     <a href="https://github.com/sarahc-dev/CV/master/README.md#skills">Skills</a> |
     <a href="https://github.com/sarahc-dev/CV/master/README.md#work-experience">Work Experience</a> |
     <a href="https://github.com/sarahc-dev/CV/master/README.md#education">Education</a> |
-    <a href="https://github.com/sarahc-dev/CV/master/README.md#hobbies">Hobbies</a>
+    <a href="https://github.com/sarahc-dev/CV/master/README.md#hobbies">Hobbies & Interests</a>
   </div>
-  
 </div>
 
-## About me
+## 👩🏼‍💻 About Me
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-## Projects
+## 🛠 Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
+## 🧰 Tech Stack
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
+## 🌼 Soft Skills
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
 Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
 
 Here's an example
 
@@ -60,10 +48,10 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Another skill
 
-
-## 🎓 Education
+## 🌟 Experience
 
 #### Makers Academy (March 2023 - July 2023)
+
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -71,6 +59,18 @@ I honed my communication skills while completing my thesis at university, which 
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+  
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience, including roles and responsibilities and results achived in bullet point format.
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
+
+## 🎓 Education
 
 #### University of East Anglia (2005 - 2008)
 
@@ -78,7 +78,7 @@ I honed my communication skills while completing my thesis at university, which 
 - Volunteered on a conservation project in Ecuador - working with the local community and children from nearby schools to support education, reforestation efforts and habitat protection for the Andean spectacled bear.
 - After graduating, I worked as an Activity Leader at a summer camp for 10-13 year olds in Verona, Italy. Worked alongside the teaching team to prepare materials and plan activities aimed at improving the children’s English language skills.
 
-#### Any other qualifications
+#### Other qualifications
 
 - [Certified Digital Marketing Professional - Digital Marketing Institute (2020)](https://certs.digitalmarketinginstitute.com/5174ee36-e1bb-451c-8013-1aa0dbeb001b#gs.39kq8g)
 
@@ -86,5 +86,5 @@ I honed my communication skills while completing my thesis at university, which 
 
 - I recently attended my first Hackathon - at [Athena Hack 2023](https://www.showcode.io/athena) and I am a member of [Codebar](https://codebar.io/london).
 - I love to travel and experience new things. I have embarked on two extensive solo trips - covering South East Asia, India, Nepal, China and ending with a year working in Australia (including 3 months of farm work), and another around South and Central America.
-- I enjoy nature and epic views. I have undertaken some challenging hikes, including Everest base camp, W Trek in Patagonia and the Inca Trail but I'm equally happy camping in a field in the UK!
-- I also love cooking, drinking beer and Glastonbury festival!
+- I enjoy nature and epic views. I have undertaken some incredible and challenging hikes, including Everest base camp, W Trek in Patagonia and the Inca Trail but I'm equally happy camping in a field in the UK!
+- I am also passionate about cooking, drinking beer and Glastonbury festival!
