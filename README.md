@@ -7,12 +7,12 @@
   <br>
   <div>
     <a href="#-about-me">About Me</a> | 
-    <a href="#🛠-projects">Projects</a> |
+    <a href="#-projects">Projects</a> |
     <a href="#-tech-stack">Tech Stack</a> |
-    <a href="#soft-skills">Soft Skills</a> |
-    <a href="#experience">Experience</a> |
-    <a href="#education">Education</a> |
-    <a href="#hobbies-&-interests">Hobbies & Interests</a>
+    <a href="#-soft-skills">Soft Skills</a> |
+    <a href="#-experience">Experience</a> |
+    <a href="#-education">Education</a> |
+    <a href="#-hobbies-&-interests">Hobbies & Interests</a>
   </div>
 </div>
 
@@ -51,15 +51,15 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## 🌟 Experience
 
-#### Makers Academy (March 2023 - July 2023)
+#### Makers Academy - London, Uk (March 2023 - July 2023)
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Completed a 16 week highly selective, intensive bootcamp in software engineering, gaining experience in key software development principles such as OOP, TDD, SOLID, MVC and agile methodologies.
+
+- Built full-stack applications using React, React Native, Expo, JavaScript, NodeJS, Express, Ruby, Sinatra, SQL, MongoDB, various APIs (including OpenAI and The Guardian) and also implemented CI/CD using Render.
+- Applied TDD practices using RSpec, Jest and Cypress, and learnt to write meaningful tests based on user requirements and acceptance criteria. 
+- Worked in teams to create applications against tight deadlines, requiring teamwork and communication. Used pair-programming to problem solve efficiently, diagramming tools such as Excalidraw, and collaborative tools such as Trello, Miro, Easy Retro and GitHub. Followed agile methodologies such as stand-ups, sprints, sprint planning and retros to deliver iterations of the project.
+- Learnt about Git workflow - using branches, pull requests and merging to work collaboratively, and minimise code conflicts.
+- Completed the Makers emotional intelligence program - including training in empathy, feedback and communication.
   
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -87,5 +87,5 @@ _Your job title_
 
 - I recently attended my first Hackathon - at [Athena Hack 2023](https://www.showcode.io/athena) and I am a member of [Codebar](https://codebar.io/london).
 - I love to travel and experience new things. I have embarked on two extensive solo trips - covering South East Asia, India, Nepal, China and ending with a year working in Australia (including 3 months of farm work), and another around South and Central America.
-- I enjoy nature and epic views. I have undertaken some incredible and challenging hikes, including Everest base camp, W Trek in Patagonia and the Inca Trail but I'm equally happy camping in a field in the UK!
+- I enjoy nature and epic views. I have undertaken some incredible and challenging hikes, including Everest base camp, W Trek in Patagonia and the Inca Trail but I'm equally happy camping in a field in the Uk!
 - I am also passionate about cooking, drinking beer and Glastonbury festival!
