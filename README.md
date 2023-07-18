@@ -7,7 +7,7 @@
   <br>
   <div>
     <a href="#about-me">About Me</a> | 
-    <a href="https://github.com/sarahc-dev/CV/master/README.md#projects">Projects</a> |
+    <a href="#projects">Projects</a> |
     <a href="https://github.com/sarahc-dev/CV/master/README.md#skills">Skills</a> |
     <a href="https://github.com/sarahc-dev/CV/master/README.md#work-experience">Work Experience</a> |
     <a href="https://github.com/sarahc-dev/CV/master/README.md#education">Education</a> |
@@ -20,7 +20,7 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-<h2 id="projects">Projects</h2>
+## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
