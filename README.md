@@ -6,12 +6,13 @@
   <br>
   <br>
   <div>
-    <a href="#about-me">About Me</a> | 
-    <a href="#projects">Projects</a> |
-    <a href="https://github.com/sarahc-dev/CV/master/README.md#skills">Skills</a> |
-    <a href="https://github.com/sarahc-dev/CV/master/README.md#work-experience">Work Experience</a> |
-    <a href="https://github.com/sarahc-dev/CV/master/README.md#education">Education</a> |
-    <a href="https://github.com/sarahc-dev/CV/master/README.md#hobbies">Hobbies & Interests</a>
+    <a href="#-about-me">About Me</a> | 
+    <a href="#🛠-projects">Projects</a> |
+    <a href="#-tech-stack">Tech Stack</a> |
+    <a href="#soft-skills">Soft Skills</a> |
+    <a href="#experience">Experience</a> |
+    <a href="#education">Education</a> |
+    <a href="#hobbies-&-interests">Hobbies & Interests</a>
   </div>
 </div>
 
