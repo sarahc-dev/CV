@@ -61,9 +61,9 @@ I honed my communication skills while completing my thesis at university, which 
 #### Another skill
 
 
-## Education
+## 🎓 Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2023 - July 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -72,16 +72,19 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of East Anglia (2005 - 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA (Hons) History & Politics - 2.1
+- Volunteered on a conservation project in Ecuador - working with the local community and children from nearby schools to support education, reforestation efforts and habitat protection for the Andean spectacled bear.
+- After graduating, I worked as an Activity Leader at a summer camp for 10-13 year olds in Verona, Italy. Worked alongside the teaching team to prepare materials and plan activities aimed at improving the children’s English language skills.
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- [Certified Digital Marketing Professional - Digital Marketing Institute (2020)](https://certs.digitalmarketinginstitute.com/5174ee36-e1bb-451c-8013-1aa0dbeb001b#gs.39kq8g)
 
-## Hobbies
+## 🏔 Hobbies & Interests
 
-Any cool stuff that makes you a super part of a software development team
+- I recently attended my first Hackathon - at [Athena Hack 2023](https://www.showcode.io/athena) and I am a member of [Codebar](https://codebar.io/london).
+- I love to travel and experience new things. I have embarked on two extensive solo trips - covering South East Asia, India, Nepal, China and ending with a year working in Australia (including 3 months of farm work), and another around South and Central America.
+- I enjoy nature and epic views. I have undertaken some challenging hikes, including Everest base camp, W Trek in Patagonia and the Inca Trail but I'm equally happy camping in a field in the UK!
+- I also love cooking, drinking beer and Glastonbury festival!
