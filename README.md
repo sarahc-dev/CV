@@ -31,23 +31,25 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## 🌼 Soft Skills
 
+#### Attention to detail
+I am reliable and dependable with a meticulous eye for detail. I have spent over 10 years working in quality assurance where I have been required to maintain excellent attention to detail. I have consistently outperformed many of my peers and this has been reflected in my quality record and recognised in promotions to 'check the checker' which is the last 'line of defence'. This has helped me in my time at Makers, particularly when it comes to debugging but it has also made me very independent when working through documentation or learning materials
+
+#### Communication
+I have an incredibly varied experience of communicating with different people from different backgrounds, cultures and at different levels of seniority - from educating 10 year olds to speaking to clients and delivering presentations to senior management. I have successfully led teams, delivered classroom based formal training and run informal workshops and huddles.  My written communication is also excellent - in my role as an analyst I have demonstrated that I am able to concisely explain complex processes within written procedure guides and huddle packs and have these followed by hundreds of case handlers.
+
+#### Leadership
+I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on driving quality performance and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes and speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality in reducing fails on related topics. 
+
+#### Analytical thinker and problem solver
+
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
 Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
 
 Here's an example
 
-#### Communication
 I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
 
 ## 🌟 Experience
 
@@ -62,12 +64,6 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 - Completed the Makers emotional intelligence program - including training in empathy, feedback and communication.
 
 #### CashMoney Uk - Birmingham, Uk (December 2022 - current)
-_Full-stack developer_
-
-- I have been involved in redesigning
-- I am using Next.js
-
-####  
   
 #### Momenta/Big 4 Consultancy Firm - Crawley, Uk (May 2019 - November 2019)
 _QC/Process Analyst_
