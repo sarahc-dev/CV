@@ -18,9 +18,7 @@
 
 ## 👩🏼‍💻 About Me
 
-After more than 10 years experience working in the financial services sector, I am now seeking a career change into software development. I took an extended career break to find a new challenge that truly ignited a fire in me. Though the journey wasn't linear, I am happy to say that I have now found what I was looking for. I love the challenges and problem-solving aspects of software development, as well as the fact it allows for a freedom and creativity. 
-
-I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
+After more than 10 years experience working in the financial services sector, I am now seeking a career change into software development. I took an extended career break to find a new challenge that truly ignited a fire in me. Though the journey wasn't linear, I am happy to say that I have now found what I was looking for. I love the challenges and problem-solving aspects of software development, as well as the fact it allows for a freedom and creativity. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
 
 ## 🛠 Projects
 
