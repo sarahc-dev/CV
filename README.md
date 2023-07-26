@@ -18,38 +18,41 @@
 
 ## 👩🏼‍💻 About Me
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After more than 10 years experience working in the financial services sector, I am now seeking a career change into software development. I took an extended career break to find a new challenge that truly ignited a fire in me. Though the journey wasn't linear, I am happy to say that I have now found what I was looking for. I love the challenges and problem-solving aspects of software development, as well as the fact it allows for a freedom and creativity. 
+
+I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
 
 ## 🛠 Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Final project - Flock](https://github.com/ev-th/Flock)**    | A mobile app to help people decide on activities to do with friends. We prioritised functionality and having a great looking app to show off on demo day (so we still have some work to do). You can see us demo the app [here](https://www.youtube.com/watch?v=poiWhBTU_ys&t=285s). | React Native, Expo, Node.js, Express, MongoDB, Jest, Cypress. |
+| **[RuBnB](https://github.com/michael-szczepanski/ruBnB)** | An AirBnb clone where users can post and book rooms. This was our first group project at Makers where we focused on learning to build a project as part of a team within an agile environment and how to collectively commit code to GitHub.  | Ruby, RSpec, ERB, PostgreSQL             |
+| **[Chitter](https://github.com/sarahc-dev/chitter-challenge)** | This was a solo challenge I completed in Week 4 and one I was particularly proud of, with the ability to post a 'peep', reply to 'peeps' and tag other users.   | Ruby, RSpec, ERB, PostgreSQL             |
 
 ## 🧰 Tech Stack
+
+- JavaScript (React, Node.js, Express, Jest, Cypress)
+- Ruby (Sinatra, RSpec)
+- SQL (PostgreSQL)
+- NoSQL (MongoDB, Mongoose)
+- HTML, CSS (Tailwind CSS, Bootstrap)
+- Netlify, Vercel, Render
+- Git, GitHub
 
 ## 🌼 Soft Skills
 
 #### Attention to detail
-I am reliable and dependable with a meticulous eye for detail. I have spent over 10 years working in quality assurance where I have been required to maintain excellent attention to detail. I have consistently outperformed many of my peers and this has been reflected in my quality record and recognised in promotions to 'check the checker' which is the last 'line of defence'. This has helped me in my time at Makers, particularly when it comes to debugging but it has also made me very independent when working through documentation or learning materials
+I am reliable and dependable with a meticulous eye for detail. I have spent over 10 years working in quality assurance where I have been required to maintain excellent attention to detail. I have consistently outperformed many of my peers and this has been reflected in my quality record and recognised in promotions to 'check the checker' which is the last 'line of defence'. This has helped me in my time at Makers, particularly when it comes to debugging but it has also made me very independent when working through documentation or learning materials.
 
 #### Communication
 I have an incredibly varied experience of communicating with different people from different backgrounds, cultures and at different levels of seniority - from educating 10 year olds to speaking to clients and delivering presentations to senior management. I have successfully led teams, delivered classroom based formal training and run informal workshops and huddles.  My written communication is also excellent - in my role as an analyst I have demonstrated that I am able to concisely explain complex processes within written procedure guides and huddle packs and have these followed by hundreds of case handlers.
 
 #### Leadership
-I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on driving quality performance and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes and speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality in reducing fails on related topics. 
+I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on driving quality and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes, and speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality reducing fails on related topics. 
 
 #### Analytical thinker and problem solver
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-Here's an example
-
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
+In my role as an analyst, one of the biggest problems we faced in meeting quality targets was guidance that was subjective and a resulting lack of consistency. To address this, I analysed data for patterns where guidance needed to be more robust and worked on improving written procedural guidance. I also proactively worked on more informal solutions and knowledge building exercises with both case handlers and quality checkers, where results could be achieved quicker that waiting for guidance to be signed off.
 
 ## 🌟 Experience
 
@@ -64,6 +67,9 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 - Completed the Makers emotional intelligence program - including training in empathy, feedback and communication.
 
 #### CashMoney Uk - Birmingham, Uk (December 2022 - current)
+
+- I am currently the sole developer working with a small team on a redesign of their existing website (going live in a few weeks).
+- Using Next.js, TypeScript, Tailwind CSS, HeadlessUi, React Hook Form and Netlify to create a fast, responsive website with dynamic forms to better enable them to get leads with the exact information they require.
   
 #### Momenta/Big 4 Consultancy Firm - Crawley, Uk (May 2019 - November 2019)
 _QC/Process Analyst_
