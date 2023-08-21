@@ -18,7 +18,7 @@
 
 ## 👩🏼‍💻 About Me
 
-After more than 10 years experience working in the financial services sector, I am now seeking a career change into software development. I took an extended career break to find a new challenge that truly ignited a fire in me. Though the journey wasn't linear, I am happy to say that I have now found what I was looking for. I love the challenges and problem-solving aspects of software development, as well as the fact it allows for a freedom and creativity. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
+With over 15 years experience in financial services, I worked as a contracted analyst for a Big 4 consulting firm providing specialist solutions for complex large scale remediation projects. Driven by a passion for problem solving and a desire to combine technical knowledge with creative, innovative solutions, I am now eagerly poised to pivot my career into the exciting world of software development. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
 
 ## 🛠 Projects
 
@@ -43,14 +43,14 @@ After more than 10 years experience working in the financial services sector, I 
 #### Attention to detail
 I am reliable and dependable with a meticulous eye for detail. I have spent over 10 years working in quality assurance where I have been required to maintain excellent attention to detail. I have consistently outperformed many of my peers and this has been reflected in my quality record and recognised in promotions to 'check the checker' which is the last 'line of defence'. This has helped me in my time at Makers, particularly when it comes to debugging but it has also made me very independent when working through documentation or learning materials.
 
+#### Analytical thinker and problem solver
+I am a tenacious and persistent problem solver. In my role as an analyst, one of the biggest problems we faced in meeting quality targets was guidance that was subjective and a resulting lack of consistency. To address this, I analysed data for patterns where guidance needed to be more robust and worked on improving written procedural guidance. I also proactively worked on more informal solutions and knowledge building exercises with both case handlers and quality checkers, where results could be achieved quicker than waiting for guidance to be signed off.
+
 #### Communication
 I have an incredibly varied experience of communicating with different people from different backgrounds, cultures and at different levels of seniority - from educating 10 year olds to speaking to clients and delivering presentations to senior management. I have successfully led teams, delivered classroom based formal training and run informal workshops and huddles.  My written communication is also excellent - in my role as an analyst I have demonstrated that I am able to concisely explain complex processes within written procedure guides and huddle packs and have these followed by hundreds of case handlers.
 
 #### Leadership
 I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on driving quality and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes, and speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality reducing fails on related topics. 
-
-#### Analytical thinker and problem solver
-In my role as an analyst, one of the biggest problems we faced in meeting quality targets was guidance that was subjective and a resulting lack of consistency. To address this, I analysed data for patterns where guidance needed to be more robust and worked on improving written procedural guidance. I also proactively worked on more informal solutions and knowledge building exercises with both case handlers and quality checkers, where results could be achieved quicker that waiting for guidance to be signed off.
 
 ## 🌟 Experience
 
