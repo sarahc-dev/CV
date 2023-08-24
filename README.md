@@ -8,17 +8,16 @@
   <div>
     <a href="#-about-me">About Me</a> | 
     <a href="#-projects">Projects</a> |
-    <a href="#-tech-stack">Tech Stack</a> |
     <a href="#-soft-skills">Soft Skills</a> |
     <a href="#-experience">Experience</a> |
     <a href="#-education">Education</a> |
-    <a href="#-hobbies-&-interests">Hobbies & Interests</a>
+    <a href="#-hobbies--interests">Hobbies & Interests</a>
   </div>
 </div>
 
 ## 👩🏼‍💻 About Me
 
-With over 15 years experience in financial services, I worked as a contracted analyst for a Big 4 consulting firm providing specialist solutions for complex large scale remediation projects. Driven by a passion for problem solving and a desire to combine technical knowledge with creative, innovative solutions, I am now eagerly poised to pivot my career into the exciting world of software development. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
+With over 15 years experience in financial services, I worked as a contracted analyst for a Big 4 consulting firm providing specialist solutions for complex large scale remediation projects. Driven by a passion for problem solving and a desire to combine technical knowledge with creative, innovative solutions, I am now eagerly poised to pivot my career into the exciting world of software development. I was looking for a career change into something I truly had a passion for and, although the journey here has not been linear, I can say I have found that. I find the inherent challenges both intellectually stimulating and incredibly rewarding and I am excited to advance in this industry. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
 
 ## 🛠 Projects
 
@@ -28,29 +27,19 @@ With over 15 years experience in financial services, I worked as a contracted an
 | **[RuBnB](https://github.com/michael-szczepanski/ruBnB)** | An AirBnb clone where users can post and book rooms. This was our first group project at Makers where we focused on learning to build a project as part of a team within an agile environment and how to collectively commit code to GitHub.  | Ruby, RSpec, ERB, PostgreSQL             |
 | **[Chitter](https://github.com/sarahc-dev/chitter-challenge)** | This was a solo challenge I completed in Week 4 and one I was particularly proud of, with the ability to post a 'peep', reply to 'peeps' and tag other users.   | Ruby, RSpec, ERB, PostgreSQL             |
 
-## 🧰 Tech Stack
-
-- JavaScript (React, Node.js, Express, Jest, Cypress)
-- Ruby (Sinatra, RSpec)
-- SQL (PostgreSQL)
-- NoSQL (MongoDB, Mongoose)
-- HTML, CSS (Tailwind CSS, Bootstrap)
-- Netlify, Vercel, Render
-- Git, GitHub
-
 ## 🌼 Soft Skills
 
 #### Attention to detail
 I am reliable and dependable with a meticulous eye for detail. I have spent over 10 years working in quality assurance where I have been required to maintain excellent attention to detail. I have consistently outperformed many of my peers and this has been reflected in my quality record and recognised in promotions to 'check the checker' which is the last 'line of defence'. This has helped me in my time at Makers, particularly when it comes to debugging but it has also made me very independent when working through documentation or learning materials.
 
 #### Analytical thinker and problem solver
-I am a tenacious and persistent problem solver. In my role as an analyst, one of the biggest problems we faced in meeting quality targets was guidance that was subjective and a resulting lack of consistency. To address this, I analysed data for patterns where guidance needed to be more robust and worked on improving written procedural guidance. I also proactively worked on more informal solutions and knowledge building exercises with both case handlers and quality checkers, where results could be achieved quicker than waiting for guidance to be signed off.
+I am a tenacious and persistent problem solver. In my role as an analyst, one of the biggest problems we faced in meeting quality targets was guidance that was subjective and a resulting lack of consistency. To address this, I analysed data for patterns where guidance needed to be more robust and worked on improving written procedural guidance. I also proactively worked on more informal solutions and knowledge building exercises with both case handlers and quality checkers, where results could be achieved quicker than waiting for guidance to be signed off. I always approach problems from the perspective of the person facing it, whether that is a case handler failing QC checks because of unclear guidance or a user navigating a software application.
 
 #### Communication
-I have an incredibly varied experience of communicating with different people from different backgrounds, cultures and at different levels of seniority - from educating 10 year olds to speaking to clients and delivering presentations to senior management. I have successfully led teams, delivered classroom based formal training and run informal workshops and huddles.  My written communication is also excellent - in my role as an analyst I have demonstrated that I am able to concisely explain complex processes within written procedure guides and huddle packs and have these followed by hundreds of case handlers.
+I have an incredibly varied experience of communicating with different people from different backgrounds, cultures and at different levels of seniority - from educating 10 year olds to speaking to clients and delivering presentations to senior management. I have successfully led teams, delivered classroom based formal training and run informal workshops and huddles.  My written communication is also excellent - in my role as an analyst I have demonstrated that I am able to concisely explain complex processes within written procedure guides and huddle packs and have these followed by hundreds of case handlers. This also translates into an ability to write clean and efficient code. During Makers, we frequently pair programmed and worked in teams where I demonstrated my ability to articulate my thought process and discuss different approaches, coming up with the best solution collaboratively.
 
 #### Leadership
-I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on driving quality and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes, and speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality reducing fails on related topics. 
+I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on driving quality and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes, and speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality reducing fails on related topics. During our final project at Makers, I had what was described by my colleague as a 'Zuckerberg moment' where in collaboration with the team I diagrammed out our project idea and the architecture required to make it work on a white board. This gave the whole team confidence in knowing what we were doing, kept us on the same page and was something we used to plan each of our sprints from. This directly helped us achieve our end goal, and a project we're all really proud of, in a very short amount of time.
 
 ## 🌟 Experience
 
@@ -66,7 +55,7 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 
 #### CashMoney Uk - Birmingham, Uk (December 2022 - current)
 
-- I am currently the sole developer working with a small team on a redesign of their existing website (going live in a few weeks).
+- I am currently the sole developer working with a small team on a redesign of their existing website. We are almost ready to go live, and you can see it in development [here](https://chipper-faloodeh-f107c4.netlify.app/).
 - Using Next.js, TypeScript, Tailwind CSS, HeadlessUi, React Hook Form and Netlify to create a fast, responsive website with dynamic forms to better enable them to get leads with the exact information they require.
   
 #### Momenta/Big 4 Consultancy Firm - Crawley, Uk (May 2019 - November 2019)
@@ -75,7 +64,7 @@ _QC/Process Analyst_
 - Provided quality checking on the recovery of funds owed to debtors in insolvency and bankruptcy on behalf of a Government agency.
 - Seconded as a process analyst and responsible for designing process maps and drafting procedure documentation.
 - Analysed existing systems and processes to identify how this could be scaled up. Identified common patterns amongst third party businesses developed procedures to merge manual processes and automation in order to meet business objectives.
-- Analysed data on defects and produced RCA reporting.
+- Reviewed data on defects and produced RCA reporting.
 - Conducted User Acceptance Testing (UAT) on a new case management system.
 
 #### Momenta/Big 4 Consultancy Firm - London, Uk (August 2018 - March 2019)
@@ -113,11 +102,12 @@ _Quality Assurance_
 
 #### Other qualifications
 
+- [The Complete 2020 Web Development Bootcamp - Udemy (2020)](https://www.udemy.com/certificate/UC-537f3ba3-9245-48af-82af-e4135d98bf8f/)
 - [Certified Digital Marketing Professional - Digital Marketing Institute (2020)](https://certs.digitalmarketinginstitute.com/5174ee36-e1bb-451c-8013-1aa0dbeb001b#gs.39kq8g)
 
 ## 🏔 Hobbies & Interests
 
-- I recently attended my first Hackathon - at [Athena Hack 2023](https://www.showcode.io/athena) and I am a member of [Codebar](https://codebar.io/london).
+- I recently attended my first Hackathon - at [Athena Hack 2023](https://www.showcode.io/athena) and I am a member of [Codebar](https://codebar.io/london). I love that there is a sense of community and fun within tech and I enjoy going to talks and events.
 - I love to travel and experience new things. I have embarked on two extensive solo trips - covering South East Asia, India, Nepal, China and ending with a year working in Australia (including 3 months of farm work), and another around South and Central America.
 - I enjoy nature and epic views. I have undertaken some incredible and challenging hikes, including Everest base camp, W Trek in Patagonia and the Inca Trail but I'm equally happy camping in a field in the Uk!
 - I am also passionate about cooking, drinking beer and Glastonbury festival!
