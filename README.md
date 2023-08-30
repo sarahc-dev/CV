@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Sarah Clements - Full Stack Software Engineer</h1>
+  <h1>Sarah Clements - Full Stack Software Developer</h1>
   <a href="https://www.linkedin.com/in/sarah-clements-37579589/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Linkedin Badge" /></a>
   <a href="mailto:sarah.clements456@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge" /></a>
   <a href="https://github.com/sarahc-dev"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge" alt="Linkedin Badge" /></a>
