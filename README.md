@@ -17,15 +17,15 @@
 
 ## 👩🏼‍💻 About Me
 
-With over 15 years experience in financial services, I worked as a contracted analyst for a Big 4 consulting firm providing specialist solutions for complex large scale remediation projects. Driven by a passion for problem solving and a desire to combine technical knowledge with creative, innovative solutions, I am now eagerly poised to pivot my career into the exciting world of software development. I was looking for a career change into something I truly had a passion for and, although the journey here has not been linear, I can say I have found that. I find the inherent challenges both intellectually stimulating and incredibly rewarding and I am excited to advance in this industry. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce quality test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of teams to create working software that we could be proud of.
+With over 15 years experience in financial services, I worked as a contracted analyst for a 'Big 4' consulting firm providing specialised solutions on complex large scale remediation projects. Driven by a passion for problem solving and a desire to combine technical knowledge with creative, innovative solutions, I was looking for a career change into something I could feel excited about and, although the journey here has not been linear, I can say I have found that. I find the inherent challenges in software development both intellectually stimulating and incredibly rewarding and I love that there are communities of passionate, curious people to be part of. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce clean, test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of agile teams to build working software that we could be proud of.
 
 ## 🛠 Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Final project - Flock](https://github.com/ev-th/Flock)**    | A mobile app to help people decide on activities to do with friends. We prioritised functionality and having a great looking app to show off on demo day (so we still have some work to do). You can see us demo the app [here](https://www.youtube.com/watch?v=poiWhBTU_ys&t=285s). | React Native, Expo, Node.js, Express, MongoDB, Jest, Cypress. |
-| **[RuBnB](https://github.com/michael-szczepanski/ruBnB)** | An AirBnb clone where users can post and book rooms. This was our first group project at Makers where we focused on learning to build a project as part of a team within an agile environment and how to collectively commit code to GitHub.  | Ruby, RSpec, ERB, PostgreSQL             |
-| **[Chitter](https://github.com/sarahc-dev/chitter-challenge)** | This was a solo challenge I completed in Week 4 and one I was particularly proud of, with the ability to post a 'peep', reply to 'peeps' and tag other users.   | Ruby, RSpec, ERB, PostgreSQL             |
+| **[Final project - Flock](https://github.com/ev-th/Flock)**    | A mobile app to help people decide on activities to do with friends. We prioritised functionality and having a great looking app to show off on demo day (so we still have some work to do). You can see us demo the app [here](https://www.youtube.com/watch?v=poiWhBTU_ys&t=285s). | React Native, Expo, Node.js, Express, MongoDB, Jest, Cypress, OpenAI API, SerpAPI |
+| **[Acebook](https://github.com/sharmine-s/acebook-airbenders)** | This was a Makers group project to create a Facebook clone with user authentication, ability to upload an avatar, post text or pictures, comment on posts and friends list functionality.  | React, MongoDB, Express, Node.js, Jest, Cypress, Cloudinary, Render              |
+| **[Chitter](https://github.com/sarahc-dev/chitter-challenge)** | This was a solo challenge I completed in Week 4 and one I was particularly proud of, with the ability to post a 'peep', reply to 'peeps' and tag other users, along with user authentication and password encryption.   | Ruby, RSpec, Sinatra, ERB, PostgreSQL, Render             |
 
 ## 🌼 Soft Skills
 
@@ -55,10 +55,10 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 
 #### CashMoney Uk - Birmingham, Uk (December 2022 - current)
 
-- I am currently the sole developer working with a small team on a redesign of their existing website. We are almost ready to go live, and you can see it in development [here](https://chipper-faloodeh-f107c4.netlify.app/).
+- I am currently the sole developer working with a small team on a redesign of their existing website with a focus on a cleaner look and tailored forms for some individual services. While still in development, it can be viewed [here](https://chipper-faloodeh-f107c4.netlify.app/).
 - Using Next.js, TypeScript, Tailwind CSS, HeadlessUi, React Hook Form and Netlify to create a fast, responsive website with dynamic forms to better enable them to get leads with the exact information they require.
   
-#### Momenta/Big 4 Consultancy Firm - Crawley, Uk (May 2019 - November 2019)
+#### Momenta (DMS - Remediation project) - Crawley, Uk (May 2019 - November 2019)
 _QC/Process Analyst_
 
 - Provided quality checking on the recovery of funds owed to debtors in insolvency and bankruptcy on behalf of a Government agency.
@@ -67,7 +67,7 @@ _QC/Process Analyst_
 - Reviewed data on defects and produced RCA reporting.
 - Conducted User Acceptance Testing (UAT) on a new case management system.
 
-#### Momenta/Big 4 Consultancy Firm - London, Uk (August 2018 - March 2019)
+#### Momenta (DMS - Remediation project) - London, Uk (August 2018 - March 2019)
 _Analyst_
 
 - Worked on a high risk "putting things right" project for a major high street bank from the early stages of implementation through to completion.
@@ -77,7 +77,7 @@ _Analyst_
 - Analysed data on operational appeals outcomes and creating reporting slides presented to senior management.
 - Led workshops and consistency sessions.
 
-#### Momenta/Big 4 Consultancy Firm - London, Uk (January 2018 - August 2019)
+#### Momenta (DMS - Remediation project) - London, Uk (January 2018 - August 2019)
 _Redress Technical Analyst (Support Governance)_
 
 - Promoted to Analyst in the redress technical support team.
@@ -86,7 +86,7 @@ _Redress Technical Analyst (Support Governance)_
 - Analysed data and trends and worked with key stakeholders to identify gaps and improve existing procedures.
 - Completed impact assessments and provided reporting on quality assurance outcomes to senior management.
   
-#### Momenta/Big 4 Consultancy Firm - London, Uk (January 2016 - January 2018)
+#### Momenta (DMS - Remediation project) - London, Uk (January 2016 - January 2018)
 _Quality Assurance_
 
 - Provided quality assurance on redress calculations in relation to complaints to a retail bank, ensuring the customer received fair remediation in line with the Bankʼs in-house policies and procedures, FCA guidelines, and in compliance with external audit review.
