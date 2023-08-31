@@ -57,15 +57,18 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 
 - I am currently the sole developer working with a small team on a redesign of their existing website with a focus on a cleaner look and tailored forms for some individual services. While still in development, it can be viewed [here](https://chipper-faloodeh-f107c4.netlify.app/).
 - Using Next.js, TypeScript, Tailwind CSS, HeadlessUi, React Hook Form and Netlify to create a fast, responsive website with dynamic forms to better enable them to get leads with the exact information they require.
+
+#### Career Break
+Exploring alternate career options including product management and digital marketing as well as teaching myself to code. I also did some trading in this time before realising that coding was what I really wanted to do.
   
 #### Momenta (DMS - Remediation project) - Crawley, Uk (May 2019 - November 2019)
 _QC/Process Analyst_
 
-- Provided quality checking on the recovery of funds owed to debtors in insolvency and bankruptcy on behalf of a Government agency.
-- Seconded as a process analyst and responsible for designing process maps and drafting procedure documentation.
-- Analysed existing systems and processes to identify how this could be scaled up. Identified common patterns amongst third party businesses developed procedures to merge manual processes and automation in order to meet business objectives.
-- Reviewed data on defects and produced RCA reporting.
-- Conducted User Acceptance Testing (UAT) on a new case management system.
+- Conducted quality checks on the recovery of funds owed to debtors in insolvency and bankruptcy for a Government agency, ensuring accurate and efficient processes.
+- Designed process maps and created procedure documentation as a seconded process analyst, optimising operational efficiency.
+- Identified opportunities to scale up existing systems and processes, by identifying common patterns amongst third party businesses, merging manual tasks with automation to meet business objectives.
+- Analysed data on defects and generated reports for Root Cause Analysis (RCA).
+- Successfully performed User Acceptance Testing (UAT) on a new case management system.
 
 #### Momenta (DMS - Remediation project) - London, Uk (August 2018 - March 2019)
 _Analyst_
