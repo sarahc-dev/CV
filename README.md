@@ -17,7 +17,7 @@
 
 ## 👩🏼‍💻 About Me
 
-With over 15 years experience in financial services, I worked as a contracted analyst for a 'Big 4' consulting firm providing specialised solutions on complex large scale remediation projects. Driven by a passion for problem solving and a desire to combine technical knowledge with creative, innovative solutions, I was looking for a career change into something I could feel excited about and, although the journey here has not been linear, I can say I have found that. I find the inherent challenges in software development both intellectually stimulating and incredibly rewarding and I love that there are communities of passionate, curious people to be part of. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce clean, test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of agile teams to build working software that we could be proud of.
+With over 15 years experience in financial services, I worked in quality assurance and then as an analyst for a 'Big 4' consulting firm providing specialised solutions on a variety of complex large-scale remediation projects. Fueled by a passion for problem-solving and delivering customer value, I have embarked on a career transition. I sought a career where I could combine technical expertise with creative, innovative solutions, aspiring to make a meaningful impact. I find the inherent challenges in software development both stimulating and rewarding and I love that there are communities of passionate, curious people to be a part of. I have recently graduated from Makers Academy where I deepened my understanding of software development principles and improved upon my self-taught skillset. During my time at Makers, I learned to produce clean, test-driven code, engaged in pair-programming to work efficiently and effectively, and collaborated as part of agile teams to build working software that we were proud to present.
 
 ## 🛠 Projects
 
@@ -26,20 +26,22 @@ With over 15 years experience in financial services, I worked as a contracted an
 | **[Final project - Flock](https://github.com/ev-th/Flock)**    | A mobile app to help people decide on activities to do with friends. We prioritised functionality and having a great looking app to show off on demo day (so we still have some work to do). You can see us demo the app [here](https://www.youtube.com/watch?v=poiWhBTU_ys&t=285s). | React Native, Expo, Node.js, Express, MongoDB, Jest, Cypress, OpenAI API, SerpAPI |
 | **[Acebook](https://github.com/sharmine-s/acebook-airbenders)** | This was a Makers group project to create a Facebook clone with user authentication, ability to upload an avatar, post text or pictures, comment on posts and friends list functionality.  | React, MongoDB, Express, Node.js, Jest, Cypress, Cloudinary, Render              |
 | **[Chitter](https://github.com/sarahc-dev/chitter-challenge)** | This was a solo challenge I completed in Week 4 and one I was particularly proud of, with the ability to post a 'peep', reply to 'peeps' and tag other users, along with user authentication and password encryption.   | Ruby, RSpec, Sinatra, ERB, PostgreSQL, Render             |
+| **[Todolist](https://github.com/sarahc-dev/todolist-collection)** | I created this simple CRUD app to practice my fundamental skills and focus on TDD. You can add todos, mark them as complete, edit, delete and filter them. | React, Next.js, TypeScript, Cypress, Node.js, Express, MongoDB, Jest |
 
 ## 🌼 Soft Skills
 
 #### Attention to detail
-I am reliable and dependable with a meticulous eye for detail. I have spent over 10 years working in quality assurance where I have been required to maintain excellent attention to detail. I have consistently outperformed many of my peers and this has been reflected in my quality record and recognised in promotions to 'check the checker' which is the last 'line of defence'. This has helped me in my time at Makers, particularly when it comes to debugging but it has also made me very independent when working through documentation or learning materials.
+I am reliable and dependable with a meticulous eye for detail. I have spent over 10 years working in quality assurance where I was required to maintain excellent attention to detail. My consistent high performance distinguished me among my peers, evident in my quality record and recognised in promotions to 'check the checker' - the last line of defence and owning accountability for correct outcomes being sent to the customer. This has helped me in my time at Makers, particularly when it comes to debugging and independently navigating through documentation and learning materials.
 
 #### Analytical thinker and problem solver
-I am a tenacious and persistent problem solver. In my role as an analyst, one of the biggest problems we faced in meeting quality targets was guidance that was subjective and a resulting lack of consistency. To address this, I analysed data for patterns where guidance needed to be more robust and worked on improving written procedural guidance. I also proactively worked on more informal solutions and knowledge building exercises with both case handlers and quality checkers, where results could be achieved quicker than waiting for guidance to be signed off. I always approach problems from the perspective of the person facing it, whether that is a case handler failing QC checks because of unclear guidance or a user navigating a software application.
+I am a tenacious and persistent problem solver. In my role as an analyst, one of the biggest problems we faced in meeting quality targets was guidance that was subjective  resulting in a lack of consistency. To address this, I analysed data for patterns and highlighted where guidance needed to be more robust, taking ownership of improving written procedural guidance. I also proactively worked on more informal solutions and knowledge building exercises with both case handlers and quality checkers, where results could be achieved quicker than waiting for guidance to be signed off by the client. I consistently analyse stakeholder feedback to identify areas for improvement 
+ensuring that every solution I propose is aligned to the user need. For instance, during our final project at Makers, when feedback highlighted concerns about a sign up process hindering friends' willingness use our app, we architected our project to eliminate this requirement.
 
 #### Communication
-I have an incredibly varied experience of communicating with different people from different backgrounds, cultures and at different levels of seniority - from educating 10 year olds to speaking to clients and delivering presentations to senior management. I have successfully led teams, delivered classroom based formal training and run informal workshops and huddles.  My written communication is also excellent - in my role as an analyst I have demonstrated that I am able to concisely explain complex processes within written procedure guides and huddle packs and have these followed by hundreds of case handlers. This also translates into an ability to write clean and readable code. During Makers, we frequently pair programmed and worked in teams where I demonstrated my ability to articulate my thought process and discuss different approaches, coming up with the best solution collaboratively.
+I have an incredibly varied experience of communicating with different people from different backgrounds, cultures and at different levels of seniority - from educating 10 year olds to speaking to clients and delivering presentations to senior management. I have successfully led teams, delivered classroom based formal training and run informal workshops and huddles. My written communication is also excellent - in my role as an analyst I have demonstrated that I am able to concisely explain complex processes within written procedure guides and huddle packs and have these followed by hundreds of case handlers. This also translates into an ability to write clean and readable code. During Makers, we frequently pair programmed and worked in teams where I demonstrated my ability to articulate my thought process and discuss different approaches, coming up with the best solution collaboratively.
 
 #### Leadership
-I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on driving quality and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes, and speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality reducing fails on related topics. During our final project at Makers, I had what was described by my colleague as a 'Zuckerberg moment' where in collaboration with the team I diagrammed out our project idea and the architecture required to make it work on a white board. This gave the whole team confidence in knowing what we were doing, kept us on the same page and was something we used to plan each of our sprints from. This directly helped us achieve our end goal, and a project we're all really proud of, in a very short amount of time.
+I drive quality performance, not just from myself but from those around me. In my role as an analyst I was focussed on delivering quality and we met and exceeded outcome testing targets. I led consistency sessions and daily huddles which focussed on specific pain points informed by reviewing data on outcome testing fails, my knowledge of the guidance and new changes, and feedback from speaking with handlers about their own experience. These were proven to be successful in improving both internal and external quality reducing fails on related topics. During our final project at Makers, I had what was described by my colleague as a 'Zuckerberg moment' where in collaboration with the team I diagrammed out our project idea and the architecture required to make it work on a white board. This gave the whole team confidence in knowing what we were doing, kept us on the same page and was something we used to plan each of our sprints from. This directly helped us achieve our end goal, and a project we're all really proud of, in a very short amount of time.
 
 ## 🌟 Experience
 
@@ -55,13 +57,13 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 
 #### CashMoney Uk - Birmingham, Uk (December 2022 - current)
 
-- I am currently the sole developer working with a small team on a redesign of their existing website with a focus on a cleaner look and tailored forms for some individual services. While still in development, it can be viewed [here](https://chipper-faloodeh-f107c4.netlify.app/).
-- Using Next.js, TypeScript, Tailwind CSS, HeadlessUi, React Hook Form and Netlify to create a fast, responsive website with dynamic forms to better enable them to get leads with the exact information they require.
+- I am currently the sole developer working with a small team on a redesign of their existing website with a focus on a cleaner look and tailored forms for some individual services. While still in development, it can be viewed [here](https://chipper-faloodeh-f128c4.netlify.app/).
+- Using Next.js, TypeScript, Tailwind CSS, HeadlessUi, React Hook Form and Netlify to create a fast, responsive website with dynamic forms to better enable them to get leads with the exact information they require first time around.
 
 #### Career Break
-Exploring alternate career options including product management and digital marketing as well as teaching myself to code. I also did some trading in this time before realising that coding was what I really wanted to do.
+During this time I provided essential care and support to elderly family members while simultaneously exploring various career avenues. I enrolled in a product management course and obtained a certificate in digital marketing. Additionally, I funded myself by trading and learnt to analyse market trends, understand financial indicators, and practice discipline and risk management. I also began my journey learning to code, discovering a profound passion for software development. I realised that this satisfied everything I was looking for in a career change and was what I truly wanted to focus on.
   
-#### Momenta (DMS - Remediation project) - Crawley, Uk (May 2019 - November 2019)
+#### Momenta (Deloitte Managed Services - Remediation project) - Crawley, Uk (May 2019 - November 2019)
 _QC/Process Analyst_
 
 - Conducted quality checks on the recovery of funds owed to debtors in insolvency and bankruptcy for a Government agency, ensuring accurate and efficient processes.
@@ -70,7 +72,7 @@ _QC/Process Analyst_
 - Analysed data on defects and generated reports for Root Cause Analysis (RCA).
 - Successfully performed User Acceptance Testing (UAT) on a new case management system.
 
-#### Momenta (DMS - Remediation project) - London, Uk (August 2018 - March 2019)
+#### Momenta (Deloitte Managed Services - Remediation project) - London, Uk (August 2018 - March 2019)
 _Analyst_
 
 - Worked on a high risk "putting things right" project for a major high street bank from the early stages of implementation through to completion.
@@ -80,7 +82,7 @@ _Analyst_
 - Analysed data on operational appeals outcomes and creating reporting slides presented to senior management.
 - Led workshops and consistency sessions.
 
-#### Momenta (DMS - Remediation project) - London, Uk (January 2018 - August 2019)
+#### Momenta (Deloitte Managed Services - Remediation project) - London, Uk (January 2018 - August 2019)
 _Redress Technical Analyst (Support Governance)_
 
 - Promoted to Analyst in the redress technical support team.
@@ -89,7 +91,7 @@ _Redress Technical Analyst (Support Governance)_
 - Analysed data and trends and worked with key stakeholders to identify gaps and improve existing procedures.
 - Completed impact assessments and provided reporting on quality assurance outcomes to senior management.
   
-#### Momenta (DMS - Remediation project) - London, Uk (January 2016 - January 2018)
+#### Momenta (Deloitte Managed Services - Remediation project) - London, Uk (January 2016 - January 2018)
 _Quality Assurance_
 
 - Provided quality assurance on redress calculations in relation to complaints to a retail bank, ensuring the customer received fair remediation in line with the Bankʼs in-house policies and procedures, FCA guidelines, and in compliance with external audit review.
