@@ -23,10 +23,10 @@ With over 15 years experience in financial services, I worked in quality assuran
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **[Habit Tracker](https://github.com/sarahc-dev/habit-tracker)** | I have created a habit tracking app that can track daily habits. You can add, edit and delete habits and check them off each day. Deployed on Vercel [here](https://habit-tracker-sarahc.vercel.app/). | Next.js, TypeScript, TailwindCSS, Shadcn/ui, Neon, Drizzle ORM, Cypress, Jest, Github Actions, Vercel |
+| **[Todolist](https://github.com/sarahc-dev/todolist-collection)** | I created this simple CRUD app to practice my fundamental skills and focus on TDD. You can add todos, mark them as complete, edit, delete and filter them. I also rebuilt the backend using Java Sprint Boot. | React, Next.js, TypeScript, Cypress, Node.js, Express, MongoDB, Jest, Java, Spring Boot, JUnit |
 | **[Final project - Flock](https://github.com/sarahc-dev/Flock)**    | A mobile app to help people decide on activities to do with friends. We prioritised functionality and having a great looking app to show off on demo day (so we still have some work to do). You can see us demo the app [here](https://www.youtube.com/watch?v=poiWhBTU_ys&t=285s). | React Native, Expo, Node.js, Express, MongoDB, Jest, Cypress, OpenAI API, SerpAPI |
 | **[Acebook](https://github.com/sharmine-s/acebook-airbenders)** | This was a Makers group project to create a Facebook clone with user authentication, ability to upload an avatar, post text or pictures, comment on posts and friends list functionality.  | React, MongoDB, Express, Node.js, Jest, Cypress, Cloudinary, Render              |
-| **[Chitter](https://github.com/sarahc-dev/chitter-challenge)** | This was a solo challenge I completed in Week 4 and one I was particularly proud of, with the ability to post a 'peep', reply to 'peeps' and tag other users, along with user authentication and password encryption.   | Ruby, RSpec, Sinatra, ERB, PostgreSQL, Render             |
-| **[Todolist](https://github.com/sarahc-dev/todolist-collection)** | I created this simple CRUD app to practice my fundamental skills and focus on TDD. You can add todos, mark them as complete, edit, delete and filter them. | React, Next.js, TypeScript, Cypress, Node.js, Express, MongoDB, Jest |
 
 ## 🌼 Soft Skills
 
@@ -55,9 +55,8 @@ Completed a 16 week highly selective, intensive bootcamp in software engineering
 - Learnt about Git workflow - using branches, pull requests and merging to work collaboratively, and minimise code conflicts.
 - Completed the Makers emotional intelligence program - including training in empathy, feedback and communication.
 
-#### CashMoney Uk - Birmingham, Uk (December 2022 - current)
-
-- I am currently the sole developer working with a small team on a redesign of their existing website with a focus on a cleaner look and tailored forms for some individual services. While still in development, it can be viewed [here](https://chipper-faloodeh-f128c4.netlify.app/).
+#### CashMoney Uk - Birmingham, Uk (December 2022 - Sept 2023)
+- I worked with a small company on a redesign of their existing website with a focus on a cleaner look and tailored forms for some services to provide a more streamlined customer experience. Due to some unforeseen issues with deploying the site on Netlify, the website I created didn't go into production. But the design I created was used, and the preview of my work is [here](https://chipper-faloodeh-f128c4.netlify.app/).
 - Using Next.js, TypeScript, Tailwind CSS, HeadlessUi, React Hook Form and Netlify to create a fast, responsive website with dynamic forms to better enable them to get leads with the exact information they require first time around.
 
 #### Career Break
